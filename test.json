@@ -1,0 +1,771 @@
+{
+    "frames": [
+        {
+            "construction_area": false,
+            "frame_id": 32879,
+            "lanes_boundaries": [
+                {
+                    "assigned_lanes": [
+                        -1,
+                        2
+                    ],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "b8d78fa0-7b14-434f-a39f-55f3f5fc0bcc",
+                    "lane_color": "WHITE",
+                    "lane_type": "SINGLE_SOLID_LINE",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 256.38954084478956,
+                                "y": 779.457838165902
+                            },
+                            "point_start": {
+                                "x": 96.184561359154,
+                                "y": 903.5922853661928
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 355.8522595315045,
+                                "y": 706.5931805638386
+                            },
+                            "point_start": {
+                                "x": 256.38954084478956,
+                                "y": 779.457838165902
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 581.988549931945,
+                                "y": 538.3274568409329
+                            },
+                            "point_start": {
+                                "x": 355.8522595315045,
+                                "y": 706.5931805638386
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 584.6844082829464,
+                                "y": 545.8659289093059
+                            },
+                            "point_start": {
+                                "x": 581.988549931945,
+                                "y": 538.3274568409329
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 375.2684757537845,
+                                "y": 725.9870381132619
+                            },
+                            "point_start": {
+                                "x": 584.6844082829464,
+                                "y": 545.8659289093059
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 174.22256831123534,
+                                "y": 901.1162375246755
+                            },
+                            "point_start": {
+                                "x": 375.2684757537845,
+                                "y": 725.9870381132619
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [
+                        2
+                    ],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "031bcc5a-5226-46bc-9202-da93be68b636",
+                    "lane_color": "NO_COLOR",
+                    "lane_type": "ELEVATED_STRUCTURE",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 846.0635624099077,
+                                "y": 491.37940531202906
+                            },
+                            "point_start": {
+                                "x": 837.8333605460166,
+                                "y": 491.0298203387638
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 860.3304113026006,
+                                "y": 491.5235148968038
+                            },
+                            "point_start": {
+                                "x": 846.0635624099077,
+                                "y": 491.37940531202906
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 865.5183563544888,
+                                "y": 494.549816177072
+                            },
+                            "point_start": {
+                                "x": 860.3304113026006,
+                                "y": 491.5235148968038
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 906.4454784304965,
+                                "y": 493.25282991409983
+                            },
+                            "point_start": {
+                                "x": 865.5183563544888,
+                                "y": 494.549816177072
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 944.7524645040444,
+                                "y": 499.7377612289603
+                            },
+                            "point_start": {
+                                "x": 906.4454784304965,
+                                "y": 493.25282991409983
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 995.9362988139895,
+                                "y": 496.793104419089
+                            },
+                            "point_start": {
+                                "x": 944.7524645040444,
+                                "y": 499.7377612289603
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 1072.0273913365977,
+                                "y": 512.5635142739063
+                            },
+                            "point_start": {
+                                "x": 995.9362988139895,
+                                "y": 496.793104419089
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 1107.1901300216182,
+                                "y": 540.9531024745172
+                            },
+                            "point_start": {
+                                "x": 1072.0273913365977,
+                                "y": 512.5635142739063
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 1160.0783476339238,
+                                "y": 550.8966638239699
+                            },
+                            "point_start": {
+                                "x": 1107.1901300216182,
+                                "y": 540.9531024745172
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 1194.8087575646205,
+                                "y": 535.1887190835304
+                            },
+                            "point_start": {
+                                "x": 1160.0783476339238,
+                                "y": 550.8966638239699
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 1280.090608655728,
+                                "y": 538.6754846930437
+                            },
+                            "point_start": {
+                                "x": 1194.8087575646205,
+                                "y": 535.1887190835304
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 1280.3310874059068,
+                                "y": 848.4499787514601
+                            },
+                            "point_start": {
+                                "x": 1280.090608655728,
+                                "y": 538.6754846930437
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 839.1336018510665,
+                                "y": 589.9999548828523
+                            },
+                            "point_start": {
+                                "x": 1280.3310874059068,
+                                "y": 848.4499787514601
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [
+                        2
+                    ],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "fde916ab-f1fc-4bc5-aa16-c0f0432623ed",
+                    "lane_color": "NO_COLOR",
+                    "lane_type": "GUIDE_POST_BOUNDARY",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 636.0148008955189,
+                                "y": 484.9051818604067
+                            },
+                            "point_start": {
+                                "x": 619.4723432568217,
+                                "y": 493.8187177049183
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 636.8749608580108,
+                                "y": 496.4512351865998
+                            },
+                            "point_start": {
+                                "x": 636.0148008955189,
+                                "y": 484.9051818604067
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 631.9547222642827,
+                                "y": 507.40738311022506
+                            },
+                            "point_start": {
+                                "x": 636.8749608580108,
+                                "y": 496.4512351865998
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 625.4147004864959,
+                                "y": 527.1383635998784
+                            },
+                            "point_start": {
+                                "x": 631.9547222642827,
+                                "y": 507.40738311022506
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 620.4273649544477,
+                                "y": 527.9872717755461
+                            },
+                            "point_start": {
+                                "x": 625.4147004864959,
+                                "y": 527.1383635998784
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [
+                        0,
+                        1
+                    ],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "f6a349ee-5989-489b-aa41-522eb1b77751",
+                    "lane_color": "WHITE",
+                    "lane_type": "SINGLE_SOLID_LINE",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 208.93292967799061,
+                                "y": 613.603921102024
+                            },
+                            "point_start": {
+                                "x": 0.03992958915728444,
+                                "y": 674.518911856361
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 415.72501268190143,
+                                "y": 549.8290732515585
+                            },
+                            "point_start": {
+                                "x": 208.93292967799061,
+                                "y": 613.603921102024
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 428.3381972944061,
+                                "y": 545.4541917825927
+                            },
+                            "point_start": {
+                                "x": 415.72501268190143,
+                                "y": 549.8290732515585
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 427.4518500504545,
+                                "y": 543.2593060875478
+                            },
+                            "point_start": {
+                                "x": 428.3381972944061,
+                                "y": 545.4541917825927
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 416.0818676618914,
+                                "y": 546.9477382406504
+                            },
+                            "point_start": {
+                                "x": 427.4518500504545,
+                                "y": 543.2593060875478
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 207.9025745415201,
+                                "y": 610.6618742782123
+                            },
+                            "point_start": {
+                                "x": 416.0818676618914,
+                                "y": 546.9477382406504
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": -0.004041748020162953,
+                                "y": 669.087927719279
+                            },
+                            "point_start": {
+                                "x": 207.9025745415201,
+                                "y": 610.6618742782123
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [
+                        0
+                    ],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "3f9877eb-98fc-4e20-b770-a9b8c7b7c49a",
+                    "lane_color": "WHITE",
+                    "lane_type": "SINGLE_DASHED_LINE",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 25.260439336672228,
+                                "y": 615.111670521561
+                            },
+                            "point_start": {
+                                "x": 0.04416274690559452,
+                                "y": 620.6509728668011
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 26.077780266015655,
+                                "y": 612.1133674760039
+                            },
+                            "point_start": {
+                                "x": 25.260439336672228,
+                                "y": 615.111670521561
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 0.002477725652996033,
+                                "y": 617.8357250513097
+                            },
+                            "point_start": {
+                                "x": 26.077780266015655,
+                                "y": 612.1133674760039
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "a7bdb364-e46a-4ef5-b5dc-cac925c410c7",
+                    "lane_color": "NO_COLOR",
+                    "lane_type": "GUIDE_POST_BOUNDARY",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 213.06139393672578,
+                                "y": 518.3808686136238
+                            },
+                            "point_start": {
+                                "x": 0.004914921426960296,
+                                "y": 544.1459264461483
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 373.9114652998843,
+                                "y": 503.66479761259563
+                            },
+                            "point_start": {
+                                "x": 213.06139393672578,
+                                "y": 518.3808686136238
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 375.7160663433946,
+                                "y": 523.6534071202993
+                            },
+                            "point_start": {
+                                "x": 373.9114652998843,
+                                "y": 503.66479761259563
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 215.3092313641429,
+                                "y": 551.50781694484
+                            },
+                            "point_start": {
+                                "x": 375.7160663433946,
+                                "y": 523.6534071202993
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": -0.013272369291972421,
+                                "y": 591.242690897864
+                            },
+                            "point_start": {
+                                "x": 215.3092313641429,
+                                "y": 551.50781694484
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "367f5790-5bea-4b0d-962f-7d5ac3a63882",
+                    "lane_color": "WHITE",
+                    "lane_type": "SINGLE_SOLID_LINE",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 220.55582653007582,
+                                "y": 552.523998358703
+                            },
+                            "point_start": {
+                                "x": 0.0096540628708443,
+                                "y": 594.8395598720927
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 376.01032691770126,
+                                "y": 525.4741519661341
+                            },
+                            "point_start": {
+                                "x": 220.55582653007582,
+                                "y": 552.523998358703
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 377.93596788157424,
+                                "y": 526.4986595989742
+                            },
+                            "point_start": {
+                                "x": 376.01032691770126,
+                                "y": 525.4741519661341
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 221.14251118771614,
+                                "y": 554.3101090427614
+                            },
+                            "point_start": {
+                                "x": 377.93596788157424,
+                                "y": 526.4986595989742
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": -0.005727469974432948,
+                                "y": 596.908213861136
+                            },
+                            "point_start": {
+                                "x": 221.14251118771614,
+                                "y": 554.3101090427614
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "74037e76-3076-4163-9d4b-cfbc3e970b40",
+                    "lane_color": "NO_COLOR",
+                    "lane_type": "ROAD_EDGE",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 215.6171814609759,
+                                "y": 551.5858001012211
+                            },
+                            "point_start": {
+                                "x": 0.006132396995014564,
+                                "y": 591.382716446321
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 375.71701843875184,
+                                "y": 523.7469577574769
+                            },
+                            "point_start": {
+                                "x": 215.6171814609759,
+                                "y": 551.5858001012211
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 375.94880701972374,
+                                "y": 525.3308463941181
+                            },
+                            "point_start": {
+                                "x": 375.71701843875184,
+                                "y": 523.7469577574769
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 221.15823315000318,
+                                "y": 552.3018045540996
+                            },
+                            "point_start": {
+                                "x": 375.94880701972374,
+                                "y": 525.3308463941181
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 0.020808296002125255,
+                                "y": 594.7044002002456
+                            },
+                            "point_start": {
+                                "x": 221.15823315000318,
+                                "y": 552.3018045540996
+                            }
+                        }
+                    ]
+                },
+                {
+                    "assigned_lanes": [
+                        1
+                    ],
+                    "camera_id": "CAMERA_FRONT_MAIN",
+                    "cross_check": 0,
+                    "id": "2b44f44a-80f1-4a86-8c28-47042ae68c10",
+                    "lane_color": "NO_COLOR",
+                    "lane_type": "CURB",
+                    "polyline": [
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 390.6255741034999,
+                                "y": 539.8086944177923
+                            },
+                            "point_start": {
+                                "x": 355.78302661459844,
+                                "y": 541.5574215682432
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 417.86369115415545,
+                                "y": 537.3906068656443
+                            },
+                            "point_start": {
+                                "x": 390.6255741034999,
+                                "y": 539.8086944177923
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 427.43866514659993,
+                                "y": 536.5874979807895
+                            },
+                            "point_start": {
+                                "x": 417.86369115415545,
+                                "y": 537.3906068656443
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 427.86649356019103,
+                                "y": 540.1219784852802
+                            },
+                            "point_start": {
+                                "x": 427.43866514659993,
+                                "y": 536.5874979807895
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 418.27231750835404,
+                                "y": 540.9716083532087
+                            },
+                            "point_start": {
+                                "x": 427.86649356019103,
+                                "y": 540.1219784852802
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 392.07541494811244,
+                                "y": 543.8588788440885
+                            },
+                            "point_start": {
+                                "x": 418.27231750835404,
+                                "y": 540.9716083532087
+                            }
+                        },
+                        {
+                            "lane_orientation": "NA",
+                            "point_end": {
+                                "x": 355.92345937758665,
+                                "y": 545.1042946987678
+                            },
+                            "point_start": {
+                                "x": 392.07541494811244,
+                                "y": 543.8588788440885
+                            }
+                        }
+                    ]
+                }
+            ],
+            "road_markings": [],
+            "semantic_lanes": [
+                {
+                    "cross_check": 0,
+                    "id": "19546341-5524-4d16-812b-88689901df37",
+                    "semantic_lane_direction": "LEFT",
+                    "semantic_lane_position": "NEXT_NEXT_LEFT",
+                    "semantic_lane_type": [
+                        "ONCOMING_DRIVING_DIRECTION",
+                        "NO_LANE",
+                        "NO_LANE",
+                        "NO_LANE"
+                    ]
+                },
+                {
+                    "cross_check": 0,
+                    "id": "c99138dd-b215-4533-bb90-5581ecc7d07b",
+                    "semantic_lane_direction": "STRAIGHT",
+                    "semantic_lane_position": "NEXT_LEFT",
+                    "semantic_lane_type": [
+                        "SAME_DRIVING_DIRECTION",
+                        "NO_LANE",
+                        "NO_LANE",
+                        "NO_LANE"
+                    ]
+                },
+                {
+                    "cross_check": 0,
+                    "id": "65a738d8-236a-443e-95b0-f65a372f5cde",
+                    "semantic_lane_direction": "LEFT",
+                    "semantic_lane_position": "HOST",
+                    "semantic_lane_type": [
+                        "SHOULDER",
+                        "SAME_DRIVING_DIRECTION",
+                        "NO_LANE",
+                        "NO_LANE"
+                    ]
+                }
+            ],
+            "semantic_road_description": [],
+            "timestamp": 10731096501184702
+        }
+    ]
+}
