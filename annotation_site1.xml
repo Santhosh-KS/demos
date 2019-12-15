@@ -1,0 +1,1989 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>9</id>
+      <name>TrainingSite1</name>
+      <size>13</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker />
+      <flipped>False</flipped>
+      <created>2019-06-17 09:37:50.158256+03:00</created>
+      <updated>2019-06-17 09:44:48.491653+03:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter />
+      <labels>
+        <label>
+          <name>house</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>burnt-site</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>9</id>
+          <start>0</start>
+          <stop>12</stop>
+          <url>http://localhost:8080/?id=9</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>snayak</username>
+        <email>nayak.sunita@gmail.com</email>
+      </owner>
+    </task>
+    <dumped>2019-06-17 09:45:05.998399+03:00</dumped>
+  </meta>
+  <image height="2400.0" id="0" name="01_site1_before1.jpg" width="2400.0">
+    <box label="house" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+    </box>
+    <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+    </box>
+    <box label="house" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+    </box>
+    <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+    </box>
+    <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+    </box>
+    <box label="house" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+    </box>
+    <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+    </box>
+    <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+    </box>
+    <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+    </box>
+    <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+    </box>
+    <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+    </box>
+    <box label="house" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+    </box>
+    <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+    </box>
+    <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+    </box>
+    <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+    </box>
+    <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+    </box>
+    <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+    </box>
+    <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+    </box>
+    <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+    </box>
+    <box label="house" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+    </box>
+    <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+    </box>
+    <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+    </box>
+    <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+    </box>
+    <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+    </box>
+    <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+    </box>
+    <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+    </box>
+    <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+    </box>
+    <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+    </box>
+    <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+    </box>
+    <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+    </box>
+    <box label="house" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+    </box>
+    <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+    </box>
+    <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+    </box>
+    <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+    </box>
+    <box label="house" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+    </box>
+    <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+    </box>
+    <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+    </box>
+    <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+    </box>
+    <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+    </box>
+    <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+    </box>
+    <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+    </box>
+    <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+    </box>
+    <box label="house" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+    </box>
+    <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+    </box>
+    <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+    </box>
+    <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+    </box>
+    <box label="house" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+    </box>
+    <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+    </box>
+    <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+    </box>
+    <box label="house" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+    </box>
+    <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+    </box>
+    <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+    </box>
+    <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+    </box>
+    <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+    </box>
+    <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+    </box>
+    <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+    </box>
+    <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+    </box>
+    <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+    </box>
+    <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+    </box>
+    <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+    </box>
+    <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+    </box>
+    <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+    </box>
+    <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+    </box>
+    <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+    </box>
+    <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+    </box>
+    <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+    </box>
+    <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+    </box>
+    <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+    </box>
+    <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+    </box>
+    <box label="house" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+    </box>
+    <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+    </box>
+    <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+    </box>
+    <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+    </box>
+    <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+    </box>
+    <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+    </box>
+    <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+    </box>
+    <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+    </box>
+    <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+    </box>
+    <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+    </box>
+    <box label="house" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+    </box>
+    <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+    </box>
+    <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+    </box>
+    <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+    </box>
+    <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+    </box>
+    <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+    </box>
+    <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+    </box>
+    <box label="house" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+    </box>
+    <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+    </box>
+    <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+    </box>
+    <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+    </box>
+  </image>
+  <image height="2400.0" id="1" name="02_site1_before2.jpg" width="2400.0">
+    <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+    </box>
+    <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+    </box>
+    <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+    </box>
+    <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+    </box>
+    <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+    </box>
+    <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+    </box>
+    <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+    </box>
+    <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+    </box>
+    <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+    </box>
+    <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+    </box>
+    <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+    </box>
+    <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+    </box>
+    <box label="house" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+    </box>
+    <box label="house" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+    </box>
+    <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+    </box>
+    <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+    </box>
+    <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+    </box>
+    <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+    </box>
+    <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+    </box>
+    <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+    </box>
+    <box label="house" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+    </box>
+    <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+    </box>
+    <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+    </box>
+    <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+    </box>
+    <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+    </box>
+    <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+    </box>
+    <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+    </box>
+    <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+    </box>
+    <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+    </box>
+    <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+    </box>
+    <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+    </box>
+    <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+    </box>
+    <box label="house" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+    </box>
+    <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+    </box>
+    <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+    </box>
+    <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+    </box>
+    <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+    </box>
+    <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+    </box>
+    <box label="house" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+    </box>
+    <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+    </box>
+    <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+    </box>
+    <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+    </box>
+    <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+    </box>
+    <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+    </box>
+    <box label="house" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+    </box>
+    <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+    </box>
+    <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+    </box>
+    <box label="house" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+    </box>
+    <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+    </box>
+    <box label="house" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+    </box>
+    <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+    </box>
+    <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+    </box>
+    <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+    </box>
+    <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+    </box>
+    <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+    </box>
+    <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+    </box>
+    <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+    </box>
+    <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+    </box>
+    <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+    </box>
+    <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+    </box>
+    <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+    </box>
+    <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+    </box>
+    <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+    </box>
+    <box label="house" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+    </box>
+    <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+    </box>
+    <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+    </box>
+    <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+    </box>
+    <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+    </box>
+    <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+    </box>
+    <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+    </box>
+    <box label="house" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+    </box>
+    <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+    </box>
+    <box label="house" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+    </box>
+    <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+    </box>
+    <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+    </box>
+    <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+    </box>
+    <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+    </box>
+    <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+    </box>
+    <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+    </box>
+    <box label="house" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+    </box>
+    <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+    </box>
+    <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+    </box>
+    <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+    </box>
+    <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+    </box>
+    <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+    </box>
+    <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+    </box>
+    <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+    </box>
+    <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+    </box>
+    <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+    </box>
+  </image>
+  <image height="2400.0" id="2" name="03_site1_before3.jpg" width="2400.0">
+    <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+    </box>
+    <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+    </box>
+    <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+    </box>
+    <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+    </box>
+    <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+    </box>
+    <box label="house" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+    </box>
+    <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+    </box>
+    <box label="house" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+    </box>
+    <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+    </box>
+    <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+    </box>
+    <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+    </box>
+    <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+    </box>
+    <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+    </box>
+    <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+    </box>
+    <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+    </box>
+    <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+    </box>
+    <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+    </box>
+    <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+    </box>
+    <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+    </box>
+    <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+    </box>
+    <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+    </box>
+    <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+    </box>
+    <box label="house" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+    </box>
+    <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+    </box>
+    <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+    </box>
+    <box label="house" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+    </box>
+    <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+    </box>
+    <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+    </box>
+    <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+    </box>
+    <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+    </box>
+    <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+    </box>
+    <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+    </box>
+    <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+    </box>
+    <box label="house" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+    </box>
+    <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+    </box>
+    <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+    </box>
+    <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+    </box>
+    <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+    </box>
+    <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+    </box>
+    <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+    </box>
+    <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+    </box>
+    <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+    </box>
+    <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+    </box>
+    <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+    </box>
+    <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+    </box>
+    <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+    </box>
+    <box label="house" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+    </box>
+    <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+    </box>
+    <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+    </box>
+    <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+    </box>
+    <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+    </box>
+    <box label="house" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+    </box>
+    <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+    </box>
+    <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+    </box>
+    <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+    </box>
+    <box label="house" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+    </box>
+    <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+    </box>
+    <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+    </box>
+    <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+    </box>
+    <box label="house" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+    </box>
+    <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+    </box>
+    <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+    </box>
+    <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+    </box>
+    <box label="house" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+    </box>
+    <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+    </box>
+    <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+    </box>
+    <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+    </box>
+    <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+    </box>
+    <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+    </box>
+    <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+    </box>
+    <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+    </box>
+    <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+    </box>
+    <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+    </box>
+    <box label="house" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+    </box>
+    <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+    </box>
+    <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+    </box>
+    <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+    </box>
+    <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+    </box>
+    <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+    </box>
+    <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+    </box>
+    <box label="house" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+    </box>
+    <box label="house" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+    </box>
+    <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+    </box>
+    <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+    </box>
+    <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+    </box>
+    <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+    </box>
+    <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+    </box>
+    <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+    </box>
+    <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+    </box>
+    <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+    </box>
+    <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+    </box>
+  </image>
+  <image height="2400.0" id="3" name="04_site1_after1.jpg" width="2400.0">
+    <box label="burnt-site" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+    </box>
+    <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+    </box>
+    <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+    </box>
+    <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+    </box>
+    <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+    </box>
+    <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+    </box>
+    <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+    </box>
+    <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+    </box>
+    <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+    </box>
+    <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+    </box>
+    <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+    </box>
+    <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+    </box>
+    <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+    </box>
+    <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+    </box>
+    <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+    </box>
+    <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+    </box>
+    <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+    </box>
+    <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+    </box>
+    <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+    </box>
+    <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+    </box>
+    <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+    </box>
+    <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+    </box>
+    <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+    </box>
+    <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+    </box>
+    <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+    </box>
+    <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+    </box>
+    <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+    </box>
+    <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+    </box>
+    <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+    </box>
+    <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+    </box>
+    <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+    </box>
+    <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+    </box>
+    <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+    </box>
+    <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+    </box>
+    <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+    </box>
+    <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+    </box>
+    <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+    </box>
+    <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+    </box>
+    <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+    </box>
+    <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+    </box>
+    <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+    </box>
+    <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+    </box>
+    <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+    </box>
+    <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+    </box>
+    <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+    </box>
+    <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+    </box>
+    <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+    </box>
+    <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+    </box>
+    <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+    </box>
+    <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+    </box>
+    <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+    </box>
+    <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+    </box>
+    <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+    </box>
+    <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+    </box>
+    <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+    </box>
+    <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+    </box>
+    <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+    </box>
+    <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+    </box>
+    <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+    </box>
+    <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+    </box>
+    <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+    </box>
+    <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+    </box>
+    <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+    </box>
+    <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+    </box>
+    <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+    </box>
+    <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+    </box>
+    <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+    </box>
+    <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+    </box>
+    <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+    </box>
+    <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+    </box>
+    <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+    </box>
+    <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+    </box>
+    <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+    </box>
+    <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+    </box>
+    <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+    </box>
+    <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+    </box>
+    <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+    </box>
+    <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+    </box>
+    <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+    </box>
+  </image>
+  <image height="2400.0" id="6" name="05_site1_after2.jpg" width="2400.0">
+      <box label="burnt-site" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+      </box>
+      <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+      </box>
+      <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+      </box>
+      <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+      </box>
+      <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+      </box>
+      <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+      </box>
+      <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+      </box>
+      <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+      </box>
+      <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+      </box>
+      <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+      </box>
+      <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+      </box>
+      <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+      </box>
+      <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+      </box>
+      <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+      </box>
+      <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+      </box>
+      <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+      </box>
+      <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+      </box>
+      <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+      </box>
+      <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+      </box>
+      <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+      </box>
+      <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+      </box>
+      <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+      </box>
+      <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+      </box>
+      <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+      </box>
+      <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+      </box>
+      <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+      </box>
+      <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+      </box>
+      <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+      </box>
+      <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+      </box>
+      <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+      </box>
+      <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+      </box>
+      <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+      </box>
+      <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+      </box>
+      <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+      </box>
+      <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+      </box>
+      <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+      </box>
+      <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+      </box>
+      <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+      </box>
+      <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+      </box>
+      <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+      </box>
+      <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+      </box>
+      <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+      </box>
+      <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+      </box>
+      <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+      </box>
+      <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+      </box>
+      <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+      </box>
+      <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+      </box>
+      <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+      </box>
+      <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+      </box>
+      <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+      </box>
+      <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+      </box>
+      <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+      </box>
+      <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+      </box>
+      <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+      </box>
+      <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+      </box>
+      <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+      </box>
+      <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+      </box>
+      <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+      </box>
+      <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+      </box>
+      <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+      </box>
+      <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+      </box>
+      <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+      </box>
+      <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+      </box>
+      <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+      </box>
+      <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+      </box>
+      <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+      </box>
+      <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+      </box>
+      <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+      </box>
+      <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+      </box>
+      <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+      </box>
+      <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+      </box>
+      <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+      </box>
+      <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+      </box>
+      <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+      </box>
+      <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+      </box>
+      <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+      </box>
+      <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+      </box>
+      <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+      </box>
+      <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+      </box>
+      <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+      </box>
+      <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+      </box>
+  </image>
+  <image height="2400.0" id="7" name="06_site1_after3.jpg" width="2400.0">
+      <box label="burnt-site" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+      </box>
+      <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+      </box>
+      <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+      </box>
+      <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+      </box>
+      <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+      </box>
+      <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+      </box>
+      <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+      </box>
+      <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+      </box>
+      <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+      </box>
+      <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+      </box>
+      <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+      </box>
+      <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+      </box>
+      <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+      </box>
+      <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+      </box>
+      <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+      </box>
+      <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+      </box>
+      <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+      </box>
+      <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+      </box>
+      <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+      </box>
+      <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+      </box>
+      <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+      </box>
+      <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+      </box>
+      <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+      </box>
+      <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+      </box>
+      <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+      </box>
+      <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+      </box>
+      <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+      </box>
+      <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+      </box>
+      <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+      </box>
+      <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+      </box>
+      <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+      </box>
+      <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+      </box>
+      <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+      </box>
+      <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+      </box>
+      <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+      </box>
+      <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+      </box>
+      <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+      </box>
+      <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+      </box>
+      <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+      </box>
+      <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+      </box>
+      <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+      </box>
+      <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+      </box>
+      <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+      </box>
+      <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+      </box>
+      <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+      </box>
+      <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+      </box>
+      <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+      </box>
+      <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+      </box>
+      <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+      </box>
+      <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+      </box>
+      <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+      </box>
+      <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+      </box>
+      <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+      </box>
+      <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+      </box>
+      <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+      </box>
+      <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+      </box>
+      <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+      </box>
+      <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+      </box>
+      <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+      </box>
+      <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+      </box>
+      <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+      </box>
+      <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+      </box>
+      <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+      </box>
+      <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+      </box>
+      <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+      </box>
+      <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+      </box>
+      <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+      </box>
+      <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+      </box>
+      <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+      </box>
+      <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+      </box>
+      <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+      </box>
+      <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+      </box>
+      <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+      </box>
+      <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+      </box>
+      <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+      </box>
+      <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+      </box>
+      <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+      </box>
+      <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+      </box>
+      <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+      </box>
+      <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+      </box>
+      <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+      </box>
+  </image>
+  <image height="2400.0" id="8" name="07_site1_after4.jpg" width="2400.0">
+      <box label="burnt-site" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+      </box>
+      <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+      </box>
+      <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+      </box>
+      <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+      </box>
+      <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+      </box>
+      <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+      </box>
+      <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+      </box>
+      <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+      </box>
+      <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+      </box>
+      <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+      </box>
+      <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+      </box>
+      <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+      </box>
+      <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+      </box>
+      <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+      </box>
+      <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+      </box>
+      <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+      </box>
+      <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+      </box>
+      <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+      </box>
+      <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+      </box>
+      <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+      </box>
+      <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+      </box>
+      <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+      </box>
+      <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+      </box>
+      <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+      </box>
+      <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+      </box>
+      <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+      </box>
+      <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+      </box>
+      <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+      </box>
+      <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+      </box>
+      <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+      </box>
+      <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+      </box>
+      <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+      </box>
+      <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+      </box>
+      <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+      </box>
+      <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+      </box>
+      <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+      </box>
+      <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+      </box>
+      <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+      </box>
+      <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+      </box>
+      <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+      </box>
+      <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+      </box>
+      <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+      </box>
+      <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+      </box>
+      <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+      </box>
+      <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+      </box>
+      <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+      </box>
+      <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+      </box>
+      <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+      </box>
+      <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+      </box>
+      <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+      </box>
+      <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+      </box>
+      <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+      </box>
+      <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+      </box>
+      <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+      </box>
+      <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+      </box>
+      <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+      </box>
+      <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+      </box>
+      <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+      </box>
+      <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+      </box>
+      <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+      </box>
+      <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+      </box>
+      <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+      </box>
+      <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+      </box>
+      <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+      </box>
+      <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+      </box>
+      <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+      </box>
+      <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+      </box>
+      <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+      </box>
+      <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+      </box>
+      <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+      </box>
+      <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+      </box>
+      <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+      </box>
+      <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+      </box>
+      <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+      </box>
+      <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+      </box>
+      <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+      </box>
+      <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+      </box>
+      <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+      </box>
+      <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+      </box>
+      <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+      </box>
+      <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+      </box>
+  </image>
+  <image height="2400.0" id="9" name="08_site1_after5.jpg" width="2400.0">
+    <box label="burnt-site" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+    </box>
+    <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+    </box>
+    <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+    </box>
+    <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+    </box>
+    <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+    </box>
+    <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+    </box>
+    <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+    </box>
+    <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+    </box>
+    <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+    </box>
+    <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+    </box>
+    <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+    </box>
+    <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+    </box>
+    <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+    </box>
+    <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+    </box>
+    <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+    </box>
+    <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+    </box>
+    <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+    </box>
+    <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+    </box>
+    <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+    </box>
+    <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+    </box>
+    <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+    </box>
+    <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+    </box>
+    <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+    </box>
+    <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+    </box>
+    <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+    </box>
+    <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+    </box>
+    <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+    </box>
+    <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+    </box>
+    <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+    </box>
+    <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+    </box>
+    <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+    </box>
+    <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+    </box>
+    <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+    </box>
+    <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+    </box>
+    <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+    </box>
+    <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+    </box>
+    <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+    </box>
+    <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+    </box>
+    <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+    </box>
+    <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+    </box>
+    <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+    </box>
+    <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+    </box>
+    <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+    </box>
+    <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+    </box>
+    <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+    </box>
+    <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+    </box>
+    <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+    </box>
+    <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+    </box>
+    <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+    </box>
+    <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+    </box>
+    <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+    </box>
+    <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+    </box>
+    <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+    </box>
+    <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+    </box>
+    <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+    </box>
+    <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+    </box>
+    <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+    </box>
+    <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+    </box>
+    <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+    </box>
+    <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+    </box>
+    <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+    </box>
+    <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+    </box>
+    <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+    </box>
+    <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+    </box>
+    <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+    </box>
+    <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+    </box>
+    <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+    </box>
+    <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+    </box>
+    <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+    </box>
+    <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+    </box>
+    <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+    </box>
+    <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+    </box>
+    <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+    </box>
+    <box label="burnt-site" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+    </box>
+    <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+    </box>
+    <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+    </box>
+    <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+    </box>
+    <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+    </box>
+    <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+    </box>
+    <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+    </box>
+    <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+    </box>
+    <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+    </box>
+    <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+    </box>
+    <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+    </box>
+    <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+    </box>
+    <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+    </box>
+    <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+    </box>
+    <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+    </box>
+  </image>
+  <image height="2400.0" id="10" name="09_site1_after6.jpg" width="2400.0">
+      <box label="burnt-site" occluded="0" xbr="1644.935" xtl="1512.65" ybr="1742.89" ytl="1635.725">
+      </box>
+      <box label="house" occluded="0" xbr="562.6" xtl="420.835" ybr="402.315" ytl="286.575">
+      </box>
+      <box label="house" occluded="0" xbr="545.0" xtl="365.0" ybr="214.5" ytl="74.5">
+      </box>
+      <box label="house" occluded="0" xbr="959.0" xtl="804.0" ybr="2287.0" ytl="2147.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1320.0" ybr="804.5" ytl="679.5">
+      </box>
+      <box label="house" occluded="0" xbr="666.665" xtl="525.0" ybr="1727.915" ytl="1602.915">
+      </box>
+      <box label="house" occluded="0" xbr="1580.0" xtl="1420.0" ybr="1504.5" ytl="1389.5">
+      </box>
+      <box label="house" occluded="0" xbr="694.0" xtl="544.0" ybr="1457.0" ytl="1322.0">
+      </box>
+      <box label="house" occluded="0" xbr="1216.55" xtl="1112.385" ybr="1718.0" ytl="1613.83">
+      </box>
+      <box label="house" occluded="0" xbr="479.0" xtl="329.0" ybr="2192.0" ytl="2062.0">
+      </box>
+      <box label="house" occluded="0" xbr="1664.0" xtl="1519.0" ybr="2072.0" ytl="1937.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2055.0" xtl="1925.0" ybr="1839.5" ytl="1699.5">
+      </box>
+      <box label="house" occluded="0" xbr="129.0" xtl="0.0" ybr="582.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1095.7" xtl="970.115" ybr="1786.43" ytl="1659.165">
+      </box>
+      <box label="house" occluded="0" xbr="639.0" xtl="504.0" ybr="972.0" ytl="847.0">
+      </box>
+      <box label="house" occluded="0" xbr="725.0" xtl="587.5" ybr="661.25" ytl="511.25">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2354.0" xtl="2204.0" ybr="2400.0" ytl="2262.0">
+      </box>
+      <box label="house" occluded="0" xbr="589.0" xtl="429.0" ybr="2400.0" ytl="2327.0">
+      </box>
+      <box label="house" occluded="0" xbr="745.0" xtl="620.0" ybr="909.5" ytl="769.5">
+      </box>
+      <box label="house" occluded="0" xbr="809.0" xtl="669.0" ybr="2352.0" ytl="2202.0">
+      </box>
+      <box label="house" occluded="0" xbr="1195.0" xtl="1040.0" ybr="1114.5" ytl="949.5">
+      </box>
+      <box label="house" occluded="0" xbr="854.165" xtl="691.665" ybr="623.75" ytl="494.585">
+      </box>
+      <box label="house" occluded="0" xbr="1554.0" xtl="1404.0" ybr="1022.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="969.0" xtl="859.0" ybr="2052.0" ytl="1947.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2194.0" xtl="2064.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="484.0" xtl="319.0" ybr="2062.0" ytl="1922.0">
+      </box>
+      <box label="house" occluded="0" xbr="1209.0" xtl="1099.0" ybr="207.0" ytl="107.0">
+      </box>
+      <box label="house" occluded="0" xbr="875.0" xtl="725.0" ybr="852.915" ytl="727.915">
+      </box>
+      <box label="house" occluded="0" xbr="1620.0" xtl="1465.0" ybr="1639.5" ytl="1514.5">
+      </box>
+      <box label="house" occluded="0" xbr="1870.0" xtl="1710.0" ybr="1624.5" ytl="1499.5">
+      </box>
+      <box label="house" occluded="0" xbr="629.0" xtl="504.0" ybr="1257.0" ytl="1107.0">
+      </box>
+      <box label="house" occluded="0" xbr="1085.0" xtl="910.0" ybr="1279.5" ytl="1164.5">
+      </box>
+      <box label="house" occluded="0" xbr="1304.0" xtl="1139.0" ybr="2047.0" ytl="1902.0">
+      </box>
+      <box label="house" occluded="0" xbr="914.0" xtl="784.0" ybr="1637.0" ytl="1507.0">
+      </box>
+      <box label="house" occluded="0" xbr="799.0" xtl="669.0" ybr="1392.0" ytl="1277.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2399.0" xtl="2299.0" ybr="2157.0" ytl="1997.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1719.0" xtl="1599.0" ybr="1252.0" ytl="1142.0">
+      </box>
+      <box label="house" occluded="0" xbr="899.0" xtl="739.0" ybr="1117.0" ytl="987.0">
+      </box>
+      <box label="house" occluded="0" xbr="970.0" xtl="830.0" ybr="1834.5" ytl="1689.5">
+      </box>
+      <box label="house" occluded="0" xbr="805.0" xtl="655.0" ybr="1699.5" ytl="1564.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1820.0" xtl="1650.0" ybr="1394.5" ytl="1254.5">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="545.0" ybr="369.5" ytl="239.5">
+      </box>
+      <box label="house" occluded="0" xbr="1030.0" xtl="890.0" ybr="834.5" ytl="694.5">
+      </box>
+      <box label="house" occluded="0" xbr="1220.0" xtl="1090.0" ybr="479.5" ytl="354.5">
+      </box>
+      <box label="house" occluded="0" xbr="1392.0" xtl="1253.645" ybr="1921.62" ytl="1795.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2244.0" xtl="2099.0" ybr="2262.0" ytl="2122.0">
+      </box>
+      <box label="house" occluded="0" xbr="1614.0" xtl="1469.0" ybr="2222.0" ytl="2072.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1680.0" xtl="1510.0" ybr="369.5" ytl="229.5">
+      </box>
+      <box label="house" occluded="0" xbr="1915.0" xtl="1775.0" ybr="2089.5" ytl="1924.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1349.0" xtl="1224.0" ybr="222.0" ytl="97.0">
+      </box>
+      <box label="house" occluded="0" xbr="1190.0" xtl="1040.0" ybr="839.5" ytl="684.5">
+      </box>
+      <box label="house" occluded="0" xbr="734.0" xtl="599.0" ybr="2172.0" ytl="2042.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2329.0" xtl="2189.0" ybr="1987.0" ytl="1847.0">
+      </box>
+      <box label="house" occluded="0" xbr="1579.0" xtl="1429.0" ybr="2342.0" ytl="2227.0">
+      </box>
+      <box label="house" occluded="0" xbr="235.0" xtl="45.0" ybr="1144.5" ytl="1024.5">
+      </box>
+      <box label="house" occluded="0" xbr="564.0" xtl="414.0" ybr="1522.0" ytl="1382.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1640.0" xtl="1495.0" ybr="1139.5" ytl="994.5">
+      </box>
+      <box label="house" occluded="0" xbr="1869.0" xtl="1709.0" ybr="2297.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="872.22" xtl="733.335" ybr="349.365" ytl="248.09">
+      </box>
+      <box label="house" occluded="0" xbr="470.835" xtl="320.835" ybr="1027.915" ytl="910.4">
+      </box>
+      <box label="house" occluded="0" xbr="284.0" xtl="114.0" ybr="1417.0" ytl="1287.0">
+      </box>
+      <box label="house" occluded="0" xbr="1349.0" xtl="1214.0" ybr="507.0" ytl="337.0">
+      </box>
+      <box label="house" occluded="0" xbr="529.0" xtl="384.0" ybr="2327.0" ytl="2197.0">
+      </box>
+      <box label="house" occluded="0" xbr="1359.0" xtl="1214.0" ybr="2322.0" ytl="2192.0">
+      </box>
+      <box label="house" occluded="0" xbr="1175.0" xtl="1045.0" ybr="1509.5" ytl="1374.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="2109.0" xtl="1969.0" ybr="2167.0" ytl="2007.0">
+      </box>
+      <box label="house" occluded="0" xbr="1070.0" xtl="900.0" ybr="1609.5" ytl="1454.5">
+      </box>
+      <box label="house" occluded="0" xbr="864.0" xtl="724.0" ybr="2112.0" ytl="1997.0">
+      </box>
+      <box label="house" occluded="0" xbr="1409.0" xtl="1274.0" ybr="687.0" ytl="527.0">
+      </box>
+      <box label="house" occluded="0" xbr="1084.0" xtl="954.0" ybr="2272.0" ytl="2157.0">
+      </box>
+      <box label="house" occluded="0" xbr="1025.0" xtl="870.0" ybr="1084.5" ytl="954.5">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1904.165" xtl="1766.665" ybr="1794.585" ytl="1677.915">
+      </box>
+      <box label="house" occluded="0" xbr="1199.0" xtl="1054.0" ybr="1372.0" ytl="1247.0">
+      </box>
+      <box label="house" occluded="0" xbr="1460.0" xtl="1290.0" ybr="1274.5" ytl="1119.5">
+      </box>
+      <box label="house" occluded="0" xbr="300.0" xtl="162.5" ybr="1540.415" ytl="1422.1">
+      </box>
+      <box label="house" occluded="0" xbr="470.815" xtl="320.835" ybr="919.585" ytl="794.6">
+      </box>
+      <box label="house" occluded="0" xbr="924.0" xtl="789.0" ybr="1312.0" ytl="1187.0">
+      </box>
+      <box label="house" occluded="0" xbr="985.0" xtl="880.0" ybr="284.5" ytl="174.5">
+      </box>
+      <box label="house" occluded="0" xbr="214.0" xtl="44.0" ybr="1012.0" ytl="897.0">
+      </box>
+      <box label="house" occluded="0" xbr="974.0" xtl="849.0" ybr="572.0" ytl="447.0">
+      </box>
+      <box label="house" occluded="0" xbr="1224.0" xtl="1109.0" ybr="2257.0" ytl="2117.0">
+      </box>
+      <box label="house" occluded="0" xbr="485.0" xtl="325.0" ybr="1904.5" ytl="1784.5">
+      </box>
+      <box label="house" occluded="0" xbr="239.0" xtl="24.0" ybr="1277.0" ytl="1162.0">
+      </box>
+      <box label="house" occluded="0" xbr="394.0" xtl="259.0" ybr="267.0" ytl="127.0">
+      </box>
+      <box label="house" occluded="0" xbr="770.0" xtl="615.0" ybr="1194.5" ytl="1044.5">
+      </box>
+      <box label="house" occluded="0" xbr="616.665" xtl="470.415" ybr="671.25" ytl="540.415">
+      </box>
+      <box label="house" occluded="0" xbr="508.335" xtl="345.835" ybr="1307.085" ytl="1161.25">
+      </box>
+      <box label="house" occluded="0" xbr="1310.0" xtl="1180.0" ybr="1139.5" ytl="1009.5">
+      </box>
+      <box label="house" occluded="0" xbr="1369.0" xtl="1224.0" ybr="1792.0" ytl="1692.0">
+      </box>
+      <box label="house" occluded="0" xbr="370.835" xtl="212.5" ybr="1665.415" ytl="1548.75">
+      </box>
+      <box label="house" occluded="0" xbr="1497.58" xtl="1375.34" ybr="1349.385" ytl="1250.59">
+      </box>
+      <box label="house" occluded="0" xbr="1124.0" xtl="979.0" ybr="2042.0" ytl="1917.0">
+      </box>
+      <box label="burnt-site" occluded="0" xbr="1675.0" xtl="1520.0" ybr="1889.5" ytl="1769.5">
+      </box>
+      <box label="house" occluded="0" xbr="1864.0" xtl="1664.0" ybr="2397.0" ytl="2322.0">
+      </box>
+      <box label="house" occluded="0" xbr="200.0" xtl="45.835" ybr="882.085" ytl="744.585">
+      </box>
+      <box label="house" occluded="0" xbr="289.0" xtl="144.0" ybr="652.0" ytl="512.0">
+      </box>
+      <box label="house" occluded="0" xbr="1108.335" xtl="957.5" ybr="536.25" ytl="402.915">
+      </box>
+      <box label="house" occluded="0" xbr="720.0" xtl="580.0" ybr="1919.5" ytl="1789.5">
+      </box>
+      <box label="house" occluded="0" xbr="270.37" xtl="140.16" ybr="369.62" ytl="253.875">
+      </box>
+      <box label="house" occluded="0" xbr="1834.0" xtl="1689.0" ybr="1507.0" ytl="1392.0">
+      </box>
+      <box label="house" occluded="0" xbr="1265.0" xtl="1090.0" ybr="674.5" ytl="529.5">
+      </box>
+      <box label="house" occluded="0" xbr="1445.0" xtl="1275.0" ybr="919.5" ytl="799.5">
+      </box>
+      <box label="house" occluded="0" xbr="849.0" xtl="704.0" ybr="1857.0" ytl="1752.0">
+      </box>
+      <box label="house" occluded="0" xbr="384.0" xtl="219.0" ybr="1797.0" ytl="1682.0">
+      </box>
+      <box label="house" occluded="0" xbr="519.0" xtl="354.0" ybr="767.0" ytl="627.0">
+      </box>
+      <box label="house" occluded="0" xbr="1079.0" xtl="964.0" ybr="252.0" ytl="142.0">
+      </box>
+      <box label="house" occluded="0" xbr="379.165" xtl="216.665" ybr="548.75" ytl="402.915">
+      </box>
+  </image>
+</annotations>
